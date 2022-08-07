@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Xiaomi realme sony devices anytime**
 
-- 📫 How to reach me **mizdrake7@gmial.com**
+- 📫 How to reach me **mizdrake7@gmail.com**
 
 - ⚡ Fun fact **My Sarcasm is beyond your understanding.**
 
