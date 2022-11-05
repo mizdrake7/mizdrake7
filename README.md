@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mizdrake7&show_icons=true&locale=en" alt="mizdrake7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizdrake7&" alt="mizdrake7" /></p>
+
+[![@mizdrake7's Holopin board](https://holopin.me/mizdrake7)](https://holopin.io/@mizdrake7)
