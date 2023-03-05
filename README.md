@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🖥️ Arch Linux is my daily driver for anything and almost everything. 
+
 - 🔭 I’m currently working on Android 11, 12, 13, And More Upcoming Version Of Google Android'sDevice Trees for Realme 5 Series [device_realme_r5x_twelve](https://github.com/mizdrake7/device_realme_r5x)
 
 - 🌱 I’m currently learning **Android Kernel Development**
