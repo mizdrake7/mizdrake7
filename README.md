@@ -9,17 +9,17 @@
 
 - 🖥️ Arch Linux is my daily driver for anything and almost everything. 
 
-- 🔭 I’m currently working on Android 11, 12, 13, And More Upcoming Version Of Google Android'sDevice Trees for Realme 5 Series [device_realme_r5x](https://github.com/mizdrake7/device_realme_r5x)
+- 🔭 I’m currently working on Android 11, 12, 13, 14 & More Upcoming Version Of Google Android Device Trees for Realme 5 Series [device_realme_r5x](https://github.com/mizdrake7/device_realme_r5x)
 
 - 🌱 I’m currently learning **Linux & Android Kernel Development**
 
-- 👯 I’m looking to collaborate on **more similar projects**
+- 👯 I’m looking to collaborate on **More similar projects**
 
 - 👨‍💻 All of my projects are available at [t.me/HOME_MAdMiZ](t.me/HOME_MAdMiZ)
 
-- 💬 Ask me about **Xiaomi realme sony devices anytime**
+- 💬 Ask me about **Xiaomi Realme SONY devices anytime**
 
-- 📫 How to reach me **mizdrake7@gmail.com**
+- 📫 How to reach me **mizdrake7@gmail.com** **t.me/MAdMiZ**
 
 - ⚡ Fun fact **My Sarcasm is beyond your understanding.**
 
